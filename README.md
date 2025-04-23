@@ -8,7 +8,6 @@ Proyecto para analizar el rendimiento de varias tiendas, evaluando factores como
 
 - `analisis_tiendas.ipynb`: Jupyter Notebook que contiene el análisis detallado de las tiendas, incluyendo gráficos e informe.
 - `data/`: Carpeta que contiene los datos utilizados para el análisis.
-- `requirements.txt`: Archivo que lista las dependencias necesarias para ejecutar el proyecto (si aplica).
 
 ## Requisitos
 
