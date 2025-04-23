@@ -29,10 +29,12 @@ Navega al directorio del proyecto:
  ```bash ```
 
  ``` cd tu_repositorio ```
+
 Inicia Jupyter Notebook:
  ```bash ```
 
-jupyter notebook
+ ```jupyter notebook ```
+
 Abre el archivo analisis_tiendas.ipynb y ejecuta las celdas para ver el análisis.
 
 ## Análisis
