@@ -29,7 +29,7 @@ Clona este repositorio en tu máquina local:
 Navega al directorio del proyecto:
  ```bash ```
 
-cd tu_repositorio
+ ``` cd tu_repositorio ```
 Inicia Jupyter Notebook:
  ```bash ```
 
